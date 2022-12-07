@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.js"],"names":["App","React","Component"],"mappings":";;AAAA;;AAEA;;;;;;;;;;;;;;;;;;;;;;IAEMA,G;;;;;;;;;;;;;6BACO,CAER;;;;EAHaC,kBAAMC,S","sourcesContent":["import React from \"react\";\r\n\r\nimport './App.css';\r\n\r\nclass App extends React.Component {\r\n    render() {\r\n        \r\n    }\r\n}"],"file":"App.dev.js"}
