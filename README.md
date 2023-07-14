@@ -1,6 +1,6 @@
 # Jammming
 
-Jammming is a React web application that allows users to search the Spotify library, create a custom playlist, and save it to their Spotify account. This project was built to demonstrate my knowledge of React components, passing state, and requests with the Spotify API.
+Jammming is a React web application that allows users to search the Spotify library, create a custom playlist, and save it to their Spotify account. This project was built to demonstrate my knowledge of React components, passing state, and requests with the Spotify API.  I created this app for Codecademy's 'Create a Front-End App with React Skill Path'.
 
 ## Technologies Used
 - HTML
