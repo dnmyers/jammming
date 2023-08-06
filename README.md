@@ -20,20 +20,20 @@ Jammming was developed as my capstone project for Codecademy's React skill path.
 
 The main features of Jammming include:
 
-    - Search: Users can search for songs in the Spotify library by song title, artist name, genre, and more.
-    - Song Information: Jammming displays detailed information about each song, including title, artist, and album.
-    - Custom Playlists: Users can create their own custom playlists by adding songs from the search results.
-    - Spotify Integration: The application integrates with the Spotify API to authenticate users and save their custom playlists to their personal Spotify accounts.
+- Search: Users can search for songs in the Spotify library by song title, artist name, genre, and more.
+- Song Information: Jammming displays detailed information about each song, including title, artist, and album.
+- Custom Playlists: Users can create their own custom playlists by adding songs from the search results.
+- Spotify Integration: The application integrates with the Spotify API to authenticate users and save their custom playlists to their personal Spotify accounts.
 
 ## Technologies Used
 
 The following technologies were used in the development of Jammming:
 
-    - HTML
-    - CSS
-    - JavaScript
-    - React
-    - Spotify API (for data retrieval and authentication)
+- HTML
+- CSS
+- JavaScript
+- React
+- Spotify API (for data retrieval and authentication)
 
 ## Features
 
